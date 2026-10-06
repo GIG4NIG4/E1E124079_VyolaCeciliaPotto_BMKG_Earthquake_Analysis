@@ -1,0 +1,16 @@
+source_index,datetime,magnitude,depth_km,region,potential,status_anomaly
+0,2026-10-03 23:37:31+00:00,5.9,26.0,68 km BaratDaya CALANG-ACEHJAYA,Tidak berpotensi tsunami,Normal
+1,2026-10-03 22:55:52+00:00,6.1,10.0,14 km BaratDaya KODI-SUMBABARATDAYA-NTT,Tidak berpotensi tsunami,Normal
+2,2026-10-01 14:20:00+00:00,5.1,10.0,111 km Tenggara SELAYAR-SULSEL,Tidak berpotensi tsunami,Normal
+3,2026-09-21 23:48:13+00:00,5.2,10.0,127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,Tidak berpotensi tsunami,Normal
+4,2026-09-21 07:31:07+00:00,5.3,10.0,26 km BaratDaya PULAUPUAH-SULTENG,Tidak berpotensi tsunami,Normal
+5,2026-09-21 01:41:37+00:00,5.3,10.0,34 km TimurLaut RUTENG-MANGGARAI-NTT,Tidak berpotensi tsunami,Normal
+6,2026-09-19 04:18:36+00:00,5.1,10.0,33 km TimurLaut SARMI-PAPUA,Tidak berpotensi tsunami,Normal
+7,2026-09-18 14:36:17+00:00,5.2,10.0,198 km BaratDaya BAYAH-BANTEN,Tidak berpotensi tsunami,Normal
+8,2026-09-17 06:20:53+00:00,5.1,24.0,118 km BaratLaut JAILOLO-MALUT,Tidak berpotensi tsunami,Normal
+9,2026-09-14 10:58:04+00:00,6.2,145.0,42 km TimurLaut PULAUDOI-MALUT,Tidak berpotensi tsunami,Anomaly
+10,2026-09-14 09:27:39+00:00,5.6,10.0,186 km BaratDaya BAYAH-BANTEN,Tidak berpotensi tsunami,Normal
+11,2026-09-14 01:42:08+00:00,5.2,10.0,156 km Tenggara KAB-MALANG-JATIM,Tidak berpotensi tsunami,Normal
+12,2026-09-12 06:14:33+00:00,5.1,124.0,227 km BaratLaut TANIMBAR,Tidak berpotensi tsunami,Anomaly
+13,2026-09-11 21:23:56+00:00,5.9,376.0,6 km Tenggara KEPSERIBU-DKI,Tidak berpotensi tsunami,Anomaly
+14,2026-09-11 11:56:24+00:00,6.2,143.0,166 km TimurLaut MALUKUBRTDAYA,Tidak berpotensi tsunami,Normal
